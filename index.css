@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+}
+
+.navbar-brand {
+  color: #fc8019 !important;
+}
+
+.card img {
+  height: 220px;
+  object-fit: cover;
+}
+
+.btn-warning {
+  background-color: #fc8019 !important;
+  border: none;
+}
+
+.btn-warning:hover {
+  background-color: #e56d0b !important;
+}
+.card {
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+}
+
+.card img {
+  height: 220px;
+  object-fit: cover;
+}
+
+footer ul li {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+footer ul li:hover {
+  color: #fc8019;
+}
+
+.bg-warning {
+  background-color: #fc8019 !important;
+}
